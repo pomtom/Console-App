@@ -1,0 +1,7 @@
+D:\Try\ConsoleApp\Console\SingleTon\bin\Debug\SingleTon.exe.config
+D:\Try\ConsoleApp\Console\SingleTon\bin\Debug\SingleTon.exe
+D:\Try\ConsoleApp\Console\SingleTon\bin\Debug\SingleTon.pdb
+D:\Try\ConsoleApp\Console\SingleTon\obj\Debug\SingleTon.csprojAssemblyReference.cache
+D:\Try\ConsoleApp\Console\SingleTon\obj\Debug\SingleTon.csproj.CoreCompileInputs.cache
+D:\Try\ConsoleApp\Console\SingleTon\obj\Debug\SingleTon.exe
+D:\Try\ConsoleApp\Console\SingleTon\obj\Debug\SingleTon.pdb
