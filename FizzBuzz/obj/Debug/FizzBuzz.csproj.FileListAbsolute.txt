@@ -1,0 +1,6 @@
+D:\Try\Console-App\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+D:\Try\Console-App\FizzBuzz\bin\Debug\FizzBuzz.exe
+D:\Try\Console-App\FizzBuzz\bin\Debug\FizzBuzz.pdb
+D:\Try\Console-App\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+D:\Try\Console-App\FizzBuzz\obj\Debug\FizzBuzz.exe
+D:\Try\Console-App\FizzBuzz\obj\Debug\FizzBuzz.pdb

@@ -5,3 +5,9 @@ D:\Try\ConsoleApp\Console\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemb
 D:\Try\ConsoleApp\Console\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
 D:\Try\ConsoleApp\Console\AbstractFactory\obj\Debug\AbstractFactory.exe
 D:\Try\ConsoleApp\Console\AbstractFactory\obj\Debug\AbstractFactory.pdb
+D:\Try\Console-App\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+D:\Try\Console-App\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\Try\Console-App\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\Try\Console-App\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\Try\Console-App\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\Try\Console-App\AbstractFactory\obj\Debug\AbstractFactory.pdb

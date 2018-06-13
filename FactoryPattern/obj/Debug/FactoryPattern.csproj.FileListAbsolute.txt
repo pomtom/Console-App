@@ -5,3 +5,9 @@ D:\Try\ConsoleApp\Console\FactoryPattern\obj\Debug\FactoryPattern.csprojAssembly
 D:\Try\ConsoleApp\Console\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
 D:\Try\ConsoleApp\Console\FactoryPattern\obj\Debug\FactoryPattern.exe
 D:\Try\ConsoleApp\Console\FactoryPattern\obj\Debug\FactoryPattern.pdb
+D:\Try\Console-App\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+D:\Try\Console-App\FactoryPattern\bin\Debug\FactoryPattern.exe
+D:\Try\Console-App\FactoryPattern\bin\Debug\FactoryPattern.pdb
+D:\Try\Console-App\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+D:\Try\Console-App\FactoryPattern\obj\Debug\FactoryPattern.exe
+D:\Try\Console-App\FactoryPattern\obj\Debug\FactoryPattern.pdb

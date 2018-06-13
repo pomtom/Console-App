@@ -5,3 +5,10 @@ D:\Try\ConsoleApp\Console\Console\obj\Debug\ConsoleApp.csprojAssemblyReference.c
 D:\Try\ConsoleApp\Console\Console\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
 D:\Try\ConsoleApp\Console\Console\obj\Debug\Console.exe
 D:\Try\ConsoleApp\Console\Console\obj\Debug\Console.pdb
+D:\Try\Console-App\Console\bin\Debug\Console.exe.config
+D:\Try\Console-App\Console\bin\Debug\Console.exe
+D:\Try\Console-App\Console\bin\Debug\Console.pdb
+D:\Try\Console-App\Console\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Try\Console-App\Console\obj\Debug\Console.exe
+D:\Try\Console-App\Console\obj\Debug\Console.pdb
+D:\Try\Console-App\Console\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
