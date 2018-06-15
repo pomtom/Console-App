@@ -21,7 +21,7 @@ namespace FactoryPattern
             {
                 return new MonthlyInvoice();
             }
-            else if (invoicetype == "quaterly")
+            else if (invoicetype == "quarterly")
             {
                 return new QuaterlyInvoice();
             }
@@ -37,30 +37,33 @@ namespace FactoryPattern
 
     public interface IInvoice
     {
-        void GenerateInvoice();
+        string GenerateInvoice();
     }
 
     public class MonthlyInvoice : IInvoice
     {
-        public void GenerateInvoice()
+        public string  GenerateInvoice()
         {
             Console.WriteLine("Montly Invoice Printed");
+            return "monthly";
         }
     }
 
     public class QuaterlyInvoice : IInvoice
     {
-        public void GenerateInvoice()
+        public string GenerateInvoice()
         {
             Console.WriteLine("Quaterly Invoice Printed");
+            return "quarterly";
         }
     }
 
     public class YearlyInvoice : IInvoice
     {
-        public void GenerateInvoice()
+        public string GenerateInvoice()
         {
             Console.WriteLine("Yearly Invoice Printed");
+            return "yearly";
         }
     }
 

@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace SingleTon
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Singleton one = Singleton.Getinstance;
             Singleton two = Singleton.Getinstance;
@@ -41,5 +41,13 @@ namespace SingleTon
                 return _instance;
             }
         }
+
+
+        public string LogContent(string str)
+        {
+            return str;
+        }
     }
+
+
 }
